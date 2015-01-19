@@ -1,4 +1,4 @@
-$home_uri = "http://gorodsad21.dsk-suor.ru/test1";
+    $home_uri = SITE_URI;
     $client_id = CLIENT_ID;
     $client_secret = CLIENT_SECRET;
 ?>
